@@ -2,4 +2,4 @@
 ### For  ![Alt text](./odin-logo.svg?raw=true "Title") The Odin Project
 ## [![Generic badge](https://img.shields.io/badge/BUILD-HTML-BRIGHTGREEN.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/BUILD-CSS-BLUE.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/<Live demo at>-<GitHub Pages>-BLUEVIOLET.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Live%20demo%20at-GitHub%20Pages-BLUEVIOLET.svg)](https://shields.io/)
